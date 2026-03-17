@@ -1,4 +1,4 @@
-# Wireless Connection
+# 🛜 Wireless Connection
 
 The year is 2090 in Platinum City. This colossal, neon labyrinth is a corporatocratic city-state ruled by a megacorporation and conglomerate known as ApeX, where the uber rich enjoy the synthetic, euphoric lifestyle of the main districts, and the poor face cutthroat struggle and survival in "The Outskirts," where violent crime and gangs rule with a literal iron fist.
 

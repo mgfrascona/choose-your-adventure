@@ -1,4 +1,4 @@
-# 🛜 Scene 1: Athena's Chamber
+# 🖥️ Scene 1: Athena's Chamber
 
 You are a robot policewoman named Alyssa guarding Athena the supercomputer, inside its chamber at the headquarters of ApeX.
 
