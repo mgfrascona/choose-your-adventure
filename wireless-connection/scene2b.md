@@ -4,6 +4,5 @@ You decide to defy the orders and prioritize the gang activity. You hop in your 
 
 Despite all of the commotion, you notice a lone person, maybe ninteen, but you can't identify them, under attack by a giant military mech machine with the "Redmark" logo on it. What choice will you make here?
 
-
  - 🦸 [Save The Person](./scene3a.md)
  - 🕵️ [Chase The Gang](./scene3b.md)
