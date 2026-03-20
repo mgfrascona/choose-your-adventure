@@ -7,9 +7,9 @@ You don't stick around long, however, as you hear voices upstairs.
 
 > "Down here, down here! I hear something going on down these stairs!"
 
-Quickly, you crawl into a vent and make your way outside but much to your dismay, there's more Redmark soldiers patrolling the streets when suddenly the commander shouts for you to obey Slingbang's orders. There's about 3 dozen of them.
+Quickly, you crawl into a vent and make your way outside but much to your dismay, there's more Redmark soldiers patrolling the streets when suddenly the commander shouts at all of the to obey Slingbang's orders. There's about 3 dozen of them.
 
 What will you do here?
 
 - 🪧 [Find another way out](./scene6d.md)
-- 💨 [Throw a smoke bomb]
+- 💨 [Throw a smoke bomb](./scene6e.md)
