@@ -7,4 +7,4 @@ There are dozens of andriods lying motionless on the floor with missing parts. Y
 
 While you may not be able to go after Slingbang anymore, your lifespan as an obsolete robot may be changing very shortly...
 
-- 💿 [Harvest the Redmark CPU's]
+- 💿 [Harvest the Redmark CPU's](./ending3.md)

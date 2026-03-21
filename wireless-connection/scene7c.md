@@ -8,4 +8,4 @@ After the broadcast is repeated a second time and the billboards dim down, you r
 
 
 - 🏃 [Run to the main entrance]
-- 🥷 [Sneak onto the cargo truck]
+- 🥷 [Sneak onto the cargo truck](./scene8b.md)
