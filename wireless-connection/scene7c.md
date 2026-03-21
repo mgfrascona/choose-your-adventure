@@ -6,6 +6,5 @@ Sneaking along buildings and staying in the shadows, you slowly make your way ba
 
 After the broadcast is repeated a second time and the billboards dim down, you release what your next objective is. The only problem is finding where to go. The hovering cargo truck with the "ApeX Space" logo gives you an idea, however...
 
-
-- 🏃 [Run to the main entrance]
 - 🥷 [Sneak onto the cargo truck](./scene8b.md)
+- 🏃 [Run to the main entrance](./scene8c)

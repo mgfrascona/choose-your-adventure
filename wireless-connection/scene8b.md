@@ -4,5 +4,5 @@ After quietly sneaking onto the cargo ship and waiting for what feels like forev
 
 His cybernetics look advanced and fighting him may not result in a victory.. there may be another way of stopping him, however.
 
-- 🥷 [Sabotage Engines]
+- 🥷 [Sabotage Engines](./ending4.md)
 - ⚔️ [Fight Him Head on](./ending5.md)

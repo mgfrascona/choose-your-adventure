@@ -1,4 +1,4 @@
-# Scene 6A: The Hotel Penthouse
+# 🏨 Scene 6A: The Hotel Penthouse
 
 After a while of rushing through the neon streets of the main districts, you and Lyric finally get back on track to follow the Ghost Rats and reach the luxurious hotel. You shuffle through the revolving doors and charge to the stairwell, where you hear faint footsteps fade out.
 

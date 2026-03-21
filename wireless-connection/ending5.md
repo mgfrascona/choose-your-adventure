@@ -6,4 +6,4 @@ After a long and gruling battle with Slingbang, you've come out on top. The hunt
 
 You're now a rogue robot with the world against you. Good luck out there, you'll need it.
 
-## The End.
+## 🌆 The End.
